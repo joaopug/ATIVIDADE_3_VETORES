@@ -9,6 +9,7 @@ public class Atividade_3_Troca_de_Valores_entre_Elementos_do_Vetor {
         taMuitoFacilAsAtividadesCleiton[0] = 10;
         taMuitoFacilAsAtividadesCleiton[1] = 5;
 
+
         System.out.println(taMuitoFacilAsAtividadesCleiton[0] + " " + taMuitoFacilAsAtividadesCleiton[1]);
 
     }
